@@ -200,6 +200,10 @@ Patch407:       chromium-rpm-fusion-brand.patch
 Patch408:       add_missing_include.patch
 Patch409:       moc_name.patch
 
+# wayland-vaapi patches
+Patch410:       wayland-vaapi.patch
+
+
 %description
 %{name} is an open-source web browser, powered by WebKit (Blink)
 ############################################PREP###########################################################
